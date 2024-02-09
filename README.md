@@ -25,5 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pradanyaboro&show_icons=true&locale=en" alt="pradanyaboro" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pradanyaboro&" alt="pradanyaboro" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pradanyaboro&" alt="pradanyaboro" /></p>
 
